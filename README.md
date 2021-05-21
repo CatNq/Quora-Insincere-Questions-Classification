@@ -9,7 +9,7 @@ An insincere question is defined as a question intended to make a statement rath
 
 # Solution
 
-I used Natural Language Processing for text classification. We will compare the performance of models using these pre-trained embeddings against the baseline model that doesn't use any pre-trained embeddings.
+I used Logistic Regression for text classification. We then will compare the performance of models using these pre-trained embeddings against the baseline model that doesn't use any pre-trained embeddings.
 Embeddings generally represent geometrical encodings of words based on how frequently appear together in a text corpus.
 
 # Data
